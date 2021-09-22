@@ -14,3 +14,5 @@ Instruction for using this extension:
 2. click on the pinned extension and click the 'group it" button
 
 ![alt text](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/GdHNy255kS4hWD5vb1fc.png?auto=format&w=1004)
+
+some updates
